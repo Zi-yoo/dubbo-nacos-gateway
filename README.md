@@ -1,1 +1,1 @@
-# dubbo-nacos-gateway
+# dubbo-nacos-gateway-sentinel
